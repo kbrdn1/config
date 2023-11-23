@@ -1,0 +1,328 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "'Monaspace Neon Var', 'CaskaydiaCove Nerd Font', 'CaskaydiaCove NFM', 'mononoki Nerd Font', 'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.linkedEditing": true,
+  "peacock.favoriteColors": [
+    {
+      "name": "Angular Red",
+      "value": "#dd0531"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#61dafb"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Svelte Orange",
+      "value": "#ff3d00"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    }
+  ],
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "liveshare.presence": true,
+  "editor.tabSize": 2,
+  "explorer.confirmDragAndDrop": false,
+  "window.autoDetectHighContrast": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.minimap.scale": 1,
+  "editor.rulers": [80],
+  "editor.renderWhitespace": "trailing",
+  "workbench.editor.highlightModifiedTabs": true,
+  "npm.runSilent": true,
+  "editor.smoothScrolling": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 6,
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "javascript.validate.enable": true,
+  "files.exclude": {
+    "USE_GITIGNORE": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/.build": true,
+    "**/.gh-pages": true,
+    "**/old_project": true,
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.suggestSelection": "recentlyUsed",
+    "editor.suggest.showKeywords": false
+  },
+  "mssql.connections": [
+    {
+      "server": "localhost/php/produit/",
+      "database": "",
+      "authenticationType": "SqlLogin",
+      "user": "root",
+      "password": "",
+      "emptyPasswordInput": true,
+      "savePassword": true,
+      "profileName": "admin"
+    }
+  ],
+  "database-client.showQuery": true,
+  "database-client.showUser": true,
+  "quokka.compactMessageOutput": true,
+  "quokka.automaticRestart": true,
+  "dart.flutterSdkPath": "C:\\flutter",
+  "[twig]": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.html": "html"
+  },
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "extensions.supportUntrustedWorkspaces": {},
+  "npm.keybindingsChangedWarningShown": true,
+  "editor.inlineSuggest.enabled": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.stickyScroll.enabled": true,
+  "terminal.integrated.fontFamily": "Monaspace Krypton Var",
+  "git.autofetch": true,
+  "editor.accessibilitySupport": "on",
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+},
+  "gitlens.views.commitDetails.files.layout": "tree",
+  "audioCues.lineHasError": "off",
+  "audioCues.volume": 0,
+  "terminal.external.windowsExec": "C:\\Users\\onepi\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe",
+  "githubPullRequests.pullBranch": "never",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "vscode_vibrancy.theme": "Default Dark",
+  "vscode_vibrancy.opacity": 0.1,
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.colorTheme": "Blueberry dark theme",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block-outline",
+  "vim.cursorStylePerMode.insert": "block-outline",
+  "vim.cursorStylePerMode.normal": "block",
+  "vim.cursorStylePerMode.replace": "underline",
+  "vim.cursorStylePerMode.visual": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.cursorWidth": 2,
+  "liveSassCompile.settings.rootIsWorkspace": true,
+  "deno.enable": true,
+  "deno.lint": true,
+  "vscode_vibrancy.refreshInterval": 5,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "redhat.telemetry.enabled": false,
+  "audioCues.diffLineDeleted": "off",
+  "audioCues.diffLineInserted": "off",
+  "audioCues.diffLineModified": "off",
+  "audioCues.lineHasBreakpoint": "off",
+  "audioCues.lineHasFoldedArea": "off",
+  "audioCues.lineHasInlineSuggestion": "off",
+  "audioCues.noInlayHints": "off",
+  "audioCues.notebookCellCompleted": "off",
+  "audioCues.notebookCellFailed": "off",
+  "audioCues.onDebugBreak": "off",
+  "audioCues.taskCompleted": "off",
+  "audioCues.taskFailed": "off",
+  "audioCues.terminalCommandFailed": "off",
+  "audioCues.terminalQuickFix": "off",
+  "liveshare.accessibility.soundVolume": 0,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "window.titleBarStyle": "custom",
+  "svelte.enable-ts-plugin": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.requireConfig": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "eslint.format.enable": true,
+  "thunder-client.saveToWorkspace": true,
+  "thunder-client.sidebar.defaultTab": "Collections",
+  "editor.codeActionsOnSave": {
+  
+  },
+  "prettier.jsxSingleQuote": true,
+  "explorer.confirmDelete": false,
+  "quokka.automaticStartRegex": "\\.js",
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "zig.zls.enabled": true,
+  "zig.zls.path": "c:\\Users\\onepi\\AppData\\Roaming\\Code\\User\\globalStorage\\ziglang.vscode-zig\\zls_install\\zls.exe",
+  "terminal.integrated.env.osx": {},
+  "clock.dateFormat": "HH:MM • dd mmm",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "vscode_vibrancy.type": "acrylic",
+  "terminal.integrated.env.linux": {},
+  "editor.fontLigatures": "'calt', 'liga', 'dlig'",
+  "editor.fontVariations": true,
+  "errorLens.fontFamily": "Monaspace Xenon Var",
+  "prettier.bracketSameLine": true,
+  "prettier.enableDebugLogs": true,
+  "prettier.configPath": "prettier.config.mjs",
+  "prettier.arrowParens": "avoid",
+  "editor.fontWeight": "normal",
+  "window.zoomLevel": 1,
+  "errorLens.enabledDiagnosticLevels": [
+    "error",
+    "warning",
+    "info",
+    "hint"
+  ],
+  "errorLens.fontSize": "0.7rem",
+  "errorLens.gutterIconsEnabled": true,
+  "errorLens.messageTemplate": "$message ($count)",
+  "errorLens.searchForProblemQuery": "https://gogle.com/search?q=$message",
+  "editor.autoClosingComments": "always",
+  "better-comments.tags": [
+
+
+
+    {
+      "tag": "!",
+      "color": "#ff441a",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false,
+      "fontFamily": "Monaspace Xenon Var"
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false,
+      "fontFamily": "Monaspace Radon Var"
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false,
+      "fontFamily": "Monaspace Radon Var"
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false,
+      "fontFamily": "Monaspace Argon Var"
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false,
+      "fontFamily": "Monaspace Argon Var"
+    },
+    {
+      "tag": ">",
+      "color": "#7f6bbf",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false,
+      "fontFamily": "Monaspace Krypton Var"
+    },
+    {
+      "tag": ";",
+      "color": "#999999",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false,
+      "fontFamily": "Monaspace Krypton Var"
+    },
+    {
+      "tag": "<",
+      "color": "#d6be36",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false,
+      "fontFamily": "Monaspace Krypton Var"
+    }
+  ],
+  "editor.largeFileOptimizations": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "dotnetAcquisitionExtension.existingDotnetPath": []
+}
