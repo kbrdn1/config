@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\"",
+    "format:watch": "prettier --write \"src/**/*.{ts,tsx}\" --watch --ignore-unknown",
+    "prepare": "husky install"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "eslint --cache --fix",
+      "prettier --write \"src/**/*.{ts,tsx}\""
+    ]
+  }
+}
