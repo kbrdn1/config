@@ -147,6 +147,7 @@
   },
   "project_panel": {
     "dock": "left",
+    "indent_size": 15,
     "git_status": true
   }
 }

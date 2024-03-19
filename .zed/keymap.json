@@ -2,7 +2,8 @@
   {
     "context": "Workspace",
     "bindings": {
-      "cmd-ù": "terminal_panel::ToggleFocus"
+      "cmd-ù": "terminal_panel::ToggleFocus",
+      "cmd-alt-i": "assistant::ToggleFocus"
     }
   },
   {
