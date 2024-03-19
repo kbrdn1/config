@@ -74,7 +74,7 @@
     "**/build": true,
     "**/.build": true,
     "**/.gh-pages": true,
-    "**/old_project": true,
+    "**/old_project": true
   },
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -104,7 +104,7 @@
   "dart.flutterSdkPath": "C:\\flutter",
   "[twig]": {},
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
+    "javascript": "javascriptreact"
   },
   "emmet.triggerExpansionOnTab": true,
   "[scss]": {
@@ -198,7 +198,7 @@
   "thunder-client.saveToWorkspace": true,
   "thunder-client.sidebar.defaultTab": "Collections",
   "editor.codeActionsOnSave": {
-  
+
   },
   "prettier.jsxSingleQuote": true,
   "explorer.confirmDelete": false,
