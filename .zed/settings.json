@@ -51,6 +51,10 @@
         "codeActionOnSave": {
           "rules": ["import/order"]
         }
+      },
+      "initialization_options": {
+        "autoFix": true,
+        "format": true
       }
     },
     "typescript-language-server": {
@@ -93,8 +97,8 @@
   "PHP": {
     "formatter": {
       "external": {
-        "command": "php-cs-fixer",
-        "arguments": ["fix", "{buffer_path}"]
+        "command": "pint",
+        "arguments": ["{buffer_path}"]
       }
     },
     "code_actions_on_format": {
